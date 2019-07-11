@@ -3,3 +3,4 @@ Git is a dis version control system.
 ff
 Git is free software distributed under the GPL.
 sdfsfd
+Git has a mutable index called stage.
